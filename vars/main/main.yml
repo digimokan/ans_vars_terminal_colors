@@ -1,4 +1,3 @@
-# main panel bar background color
 terminal_colors:
   text:
     fg: '#C6C6C6'
