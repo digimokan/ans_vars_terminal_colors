@@ -26,7 +26,7 @@ terminal_colors:
   blue:
     color4_dimmed: '#386B6E'
     color12_bright: '#6F8C81'
-  purple:
+  magenta:
     color5_dimmed: '#B1738F'
     color13_bright: '#965372'
   cyan:
