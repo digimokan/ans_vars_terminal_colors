@@ -4,6 +4,7 @@ terminal_colors:
     fg_bright: '#D1C39E'
   background:
     bg: '#2B2B2B'
+    # NOTE: requires separate compositor application to be running
     opacity: 0.9
   cursor:
     fg_text: '#000000'
