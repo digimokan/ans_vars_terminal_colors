@@ -12,6 +12,8 @@ terminal_colors:
   urls:
     fg_text: '#000000'
     bg: '#00B8C3'
+  visual_bell:
+    bg: '#FFFFFF'
   black:
     color0_dimmed: '#282828'
     color8_bright: '#786C5F'
