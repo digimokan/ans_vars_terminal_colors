@@ -14,6 +14,23 @@ terminal_colors:
     bg: '#00B8C3'
   visual_bell:
     bg: '#FFFFFF'
+  status_area:
+    bg: '#3A3A3A'
+  status_active_tab:
+    fg_text: '#3A3A3A'
+    bg: '#D78700'
+  status_inactive_tabs:
+    fg_text: '#D78700'
+    bg: '#3A3A3A'
+  status_user_at_host:
+    fg_text: '#3A3A3A'
+    bg: '#875F5F'
+  status_vcs_branch:
+    fg_text: '#3A3A3A'
+    bg: '#AF8700'
+  status_session:
+    fg_text: '#3A3A3A'
+    bg: '#AF5F00'
   black:
     color0_dimmed: '#282828'
     color8_bright: '#786C5F'
