@@ -18,7 +18,7 @@ terminal_colors:
   visual_bell:
     bg: '#FFFFFF'
   pane_split:
-    border: '#52D500'
+    border: '#52A700'
   scrollbar:
     slider: '#AAAAAA'
     bg: '#0F0F0F'
