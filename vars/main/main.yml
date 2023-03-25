@@ -9,27 +9,35 @@ terminal_colors:
   cursor:
     fg_text: '#000000'
     bg: '#FF5F5F'
+  selection:
+    fg_text: '#000000'
+    bg: '#BD861D'
   urls:
     fg_text: '#000000'
     bg: '#00B8C3'
   visual_bell:
     bg: '#FFFFFF'
+  pane_split:
+    border: '#52D500'
+  scrollbar:
+    slider: '#AAAAAA'
+    bg: '#0F0F0F'
   status_area:
     bg: '#3A3A3A'
   status_active_tab:
-    fg_text: '#3A3A3A'
+    fg_text: '#000000'
     bg: '#D78700'
   status_inactive_tabs:
     fg_text: '#D78700'
     bg: '#3A3A3A'
   status_user_at_host:
-    fg_text: '#3A3A3A'
+    fg_text: '#000000'
     bg: '#875F5F'
   status_vcs_branch:
-    fg_text: '#3A3A3A'
+    fg_text: '#000000'
     bg: '#AF8700'
   status_session:
-    fg_text: '#3A3A3A'
+    fg_text: '#000000'
     bg: '#AF5F00'
   black:
     color0_dimmed: '#282828'
