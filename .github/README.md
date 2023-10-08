@@ -31,7 +31,7 @@ Define a set of terminal text, background, and cursor colors.
 
    * _NOTE:_ `--force-with-deps` _ensures subsequent calls download updates_
 
-3. Include the role, with `public: yes`, from the project playbook:
+3. Include the role, with `public: true`, from the project playbook:
 
    ```yaml
    # playbook.yml
@@ -41,7 +41,7 @@ Define a set of terminal text, background, and cursor colors.
        - name: "Define a set of terminal text, background, and cursor colors"
          ansible.builtin.import_role:
            name: ans_role_vars_terminal_colors
-           public: yes
+           public: true
    ```
 
 ## Role Vars
