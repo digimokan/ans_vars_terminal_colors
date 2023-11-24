@@ -39,7 +39,7 @@ Define a set of terminal text, background, and cursor colors.
      connection: local
      tasks:
        - name: "Define a set of terminal text, background, and cursor colors"
-         ansible.builtin.import_role:
+         ansible.builtin.include_role:
            name: ans_role_vars_terminal_colors
            public: true
    ```
