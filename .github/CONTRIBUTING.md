@@ -6,15 +6,15 @@
 
 1. [GITHUB PAGE] Fork the project repo:
 
-    * click "fork" from https://github.com/digimokan/ans_role_vars_terminal_colors
+    * click "fork" from https://github.com/digimokan/ans_vars_terminal_colors
 
 2. [LOCAL] Create local repo:
 
-        $ git clone --recurse-submodules https://github.com/[your-github-username]/ans_role_vars_terminal_colors
+        $ git clone --recurse-submodules https://github.com/[your-github-username]/ans_vars_terminal_colors
 
 3. [LOCAL] Link upstream repo:
 
-        $ git remote add upstream https://github.com/digimokan/ans_role_vars_terminal_colors
+        $ git remote add upstream https://github.com/digimokan/ans_vars_terminal_colors
 
 ### Development Workflow
 

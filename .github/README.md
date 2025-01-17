@@ -1,8 +1,8 @@
-# ans_role_vars_terminal_colors
+# ans_vars_terminal_colors
 
 Define a set of terminal text, background, and cursor colors.
 
-[![Release](https://img.shields.io/github/release/digimokan/ans_role_vars_terminal_colors.svg?label=release)](https://github.com/digimokan/ans_role_vars_terminal_colors/releases/latest "Latest Release Notes")
+[![Release](https://img.shields.io/github/release/digimokan/ans_vars_terminal_colors.svg?label=release)](https://github.com/digimokan/ans_vars_terminal_colors/releases/latest "Latest Release Notes")
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?label=license)](LICENSE.md "Project License")
 
 ## Table Of Contents
@@ -20,7 +20,7 @@ Define a set of terminal text, background, and cursor colors.
 
    ```yaml
    # requirements.yml
-   - src: https://github.com/digimokan/ans_role_vars_terminal_colors
+   - src: https://github.com/digimokan/ans_vars_terminal_colors
    ```
 
 2. From the project root directory, install/download the role:
@@ -40,7 +40,7 @@ Define a set of terminal text, background, and cursor colors.
      tasks:
        - name: "Define a set of terminal text, background, and cursor colors"
          ansible.builtin.include_role:
-           name: ans_role_vars_terminal_colors
+           name: ans_vars_terminal_colors
            public: true
    ```
 
@@ -53,7 +53,7 @@ See the role `vars` files:
 ## Contributing
 
 * Feel free to report a bug or propose a feature by opening a new
-  [Issue](https://github.com/digimokan/ans_role_vars_terminal_colors/issues).
+  [Issue](https://github.com/digimokan/ans_vars_terminal_colors/issues).
 * Follow the project's [Contributing](CONTRIBUTING.md) guidelines.
 * Respect the project's [Code Of Conduct](CODE_OF_CONDUCT.md).
 
