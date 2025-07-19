@@ -12,6 +12,9 @@ terminal_colors:
   selection:
     fg_text: '#000000'
     bg: '#BD861D'
+  alt_selection:
+    fg_text: '#3c3836'
+    bg: '#fabd2f'
   urls:
     fg_text: '#000000'
     bg: '#00B8C3'
