@@ -9,6 +9,7 @@ terminal_colors:
   cursor:
     fg_text: '#000000'
     bg: '#FF5F5F'
+    force_reverse_video: false
   selection:
     fg_text: '#000000'
     bg: '#BD861D'
