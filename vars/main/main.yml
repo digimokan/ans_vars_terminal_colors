@@ -2,6 +2,9 @@ terminal_colors:
   text:
     fg: '#C6C6C6'
     fg_bright: '#D1C39E'
+    fg_hue_multiplier: 1.0
+    fg_saturation_multiplier: 1.0
+    fg_brightness_multiplier: 1.0
   background:
     bg: '#2B2B2B'
     # NOTE: requires separate compositor application to be running
