@@ -12,13 +12,13 @@ terminal_colors:
   cursor:
     fg_text: '#000000'
     bg: '#FF5F5F'
-    force_reverse_video: false
+    force_reverse_video: 'false'
   selection:
     fg_text: '#000000'
     bg: '#BD861D'
   alt_selection:
-    fg_text: '#3c3836'
-    bg: '#fabd2f'
+    fg_text: '#3C3836'
+    bg: '#FABD2F'
   urls:
     fg_text: '#000000'
     bg: '#00B8C3'
