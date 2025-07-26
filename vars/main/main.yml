@@ -36,7 +36,7 @@ terminal_colors:
     bg: '#D78700'
   status_inactive_tabs:
     fg_text: '#D78700'
-    bg: '#3A3A3A'
+    bg: '#414141'
   status_user_at_host:
     fg_text: '#000000'
     bg: '#875F5F'
