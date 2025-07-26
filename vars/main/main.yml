@@ -30,13 +30,13 @@ terminal_colors:
     slider: '#AAAAAA'
     bg: '#0F0F0F'
   status_area:
-    bg: '#3A3A3A'
+    bg: '#1E212B'
   status_active_tab:
     fg_text: '#000000'
     bg: '#D78700'
   status_inactive_tabs:
     fg_text: '#D78700'
-    bg: '#414141'
+    bg: '#3F3F3F'
   status_user_at_host:
     fg_text: '#000000'
     bg: '#875F5F'
